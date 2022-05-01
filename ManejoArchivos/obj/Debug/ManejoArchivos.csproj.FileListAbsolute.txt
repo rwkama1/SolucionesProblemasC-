@@ -1,0 +1,11 @@
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\SolucionesProblemas\ManejoArchivos\obj\Debug\ManejoArchivos.csprojAssemblyReference.cache
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\SolucionesProblemas\ManejoArchivos\obj\Debug\ManejoArchivos.FrmEscrituraArchivos.resources
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\SolucionesProblemas\ManejoArchivos\obj\Debug\ManejoArchivos.FrmExplorador.resources
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\SolucionesProblemas\ManejoArchivos\obj\Debug\ManejoArchivos.Properties.Resources.resources
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\SolucionesProblemas\ManejoArchivos\obj\Debug\ManejoArchivos.csproj.GenerateResource.cache
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\SolucionesProblemas\ManejoArchivos\obj\Debug\ManejoArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\SolucionesProblemas\ManejoArchivos\bin\Debug\ManejoArchivos.exe.config
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\SolucionesProblemas\ManejoArchivos\bin\Debug\ManejoArchivos.exe
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\SolucionesProblemas\ManejoArchivos\bin\Debug\ManejoArchivos.pdb
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\SolucionesProblemas\ManejoArchivos\obj\Debug\ManejoArchivos.exe
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\SolucionesProblemas\ManejoArchivos\obj\Debug\ManejoArchivos.pdb

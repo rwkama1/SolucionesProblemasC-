@@ -16,7 +16,7 @@ namespace ManejoArchivos
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmEscrituraArchivos());
+            Application.Run(new FrmExplorador());
         }
     }
 }
